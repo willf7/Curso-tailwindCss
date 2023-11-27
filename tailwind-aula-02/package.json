@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-aula-02",
+  "name": "tailwind-aula-03",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5"
   }
 }
