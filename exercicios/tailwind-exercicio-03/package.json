@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "tailwind-exercicio-01",
+=======
+  "name": "tailwind-aula-03",
+>>>>>>> 47d8441e2c20a63033b357814e4d4620c3090cf1
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
