@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "name": "tailwind-exercicio-01",
+=======
+  "name": "tailwind-aula-03",
+>>>>>>> 47d8441e2c20a63033b357814e4d4620c3090cf1
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
